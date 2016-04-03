@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">GroupMessenger2</string>
+    <string name="menu_settings">Settings</string>
+    <string name="button_send">Send</string>
+    <string name="button_ptest">PTest</string>
+    <string name="button_test1">Test1</string>
+    <string name="button_test2">Test2</string>
+    <string name="edittext_hint">Type to compose</string>
+    <string name="content_uri">edu.buffalo.cse.cse486586.groupmessenger2.provider</string>
+    <string name="value">value</string>
+    <string name="key">key</string>
+    <string name="table_name">messages</string>
+
+</resources>
