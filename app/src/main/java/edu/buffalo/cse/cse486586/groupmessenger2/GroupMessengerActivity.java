@@ -49,7 +49,7 @@ import java.util.concurrent.atomic.AtomicInteger;
 /**
  * GroupMessengerActivity is the main Activity for the assignment.
  *
- * @author stevko
+ * @author Chaitanya Brahmbhatt
  */
 public class GroupMessengerActivity extends Activity {
 
